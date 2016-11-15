@@ -1,5 +1,7 @@
 {
   "projects": {
-    "trial": "friendlychat-143b9"
+    "trial": "friendlychat-143b9",
+    "default": "friendlychat-143b9",
+    "demo": "friendlychat-143b9"
   }
 }

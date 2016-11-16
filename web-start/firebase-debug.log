@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/bin/nodejs /home/jeeves/npm/bin/firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     linux
+[debug] Node Version: v7.0.0
+[debug] Time:         Wed Nov 16 2016 13:29:57 GMT-0800 (PST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/jeeves/WebstormProjects/FireChatCodeLabs/friendlychat/web-start
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/bin/nodejs /home/jeeves/npm/bin/firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     linux
+[debug] Node Version: v7.0.0
+[debug] Time:         Wed Nov 16 2016 13:32:02 GMT-0800 (PST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/jeeves/WebstormProjects/FireChatCodeLabs/friendlychat/web-start
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
